@@ -1,9 +1,8 @@
-<div align="between">
-  <img src="https://img.shields.io/badge/wakatime-281%20hrs%202%20mins-blue?logo=wakatime" alt="Wakatime" align="left" />
-  <img src="https://komarev.com/ghpvc/?username=77darkness&color=007ec6&style=flat-square&label=Odwiedzający" alt="Odwiedzający" align="right" />
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=Przecinek1&color=007ec6&style=flat-square&label=Odwiedzający" alt="Odwiedzający" />
 </div>
 
-<br/><br/>
+<br/>
 
 # Cześć, jestem Przecinek 👋
 
