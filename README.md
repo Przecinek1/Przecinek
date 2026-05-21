@@ -10,6 +10,15 @@ Zajmuję się tworzeniem zaawansowanych **pluginów**, **paczek** oraz **gotowyc
 
 ---
 
+## Specjalizacja
+
+*  **Programowanie autorskich pluginów** pod silniki Spigot oraz PaperMC
+*  **Maksymalizacja wydajności** i kompleksowa konfiguracja środowisk Minecraft
+*  **Automatyzacja procesów**, tworzenie backendu oraz narzędzi pomocniczych
+*  **Architektura i wdrażanie** rozbudowanych, wieloserwerowych sieci (Proxy)
+
+---
+
 ## Technologie i narzędzia
 
 <div align="center">
