@@ -32,4 +32,9 @@ Zajmuję się tworzeniem zaawansowanych **pluginów**, **paczek** oraz **gotowyc
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 
+---
+
+👁️ *Odwiedziny profilu:*
+<img src="https://komarev.com/ghpvc/?username=TWÓJ_NICK_Z_GITHUBA&color=blue&style=flat-square" alt="Licznik odwiedzin" />
+
 </div>
