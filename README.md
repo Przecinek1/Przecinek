@@ -1,3 +1,10 @@
+<div align="between">
+  <img src="https://img.shields.io/badge/wakatime-281%20hrs%202%20mins-blue?logo=wakatime" alt="Wakatime" align="left" />
+  <img src="https://komarev.com/ghpvc/?username=77darkness&color=007ec6&style=flat-square&label=Odwiedzający" alt="Odwiedzający" align="right" />
+</div>
+
+<br/><br/>
+
 # Cześć, jestem Przecinek 👋
 
 Zajmuję się tworzeniem zaawansowanych **pluginów**, **paczek** oraz **gotowych sieci** dla serwerów **Minecraft**. 🚀
@@ -31,10 +38,5 @@ Zajmuję się tworzeniem zaawansowanych **pluginów**, **paczek** oraz **gotowyc
 <img src="https://img.shields.io/badge/Lua-000080?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-
----
-
-👁️ *Odwiedziny profilu:*
-<img src="https://komarev.com/ghpvc/?username=TWÓJ_NICK_Z_GITHUBA&color=blue&style=flat-square" alt="Licznik odwiedzin" />
 
 </div>
